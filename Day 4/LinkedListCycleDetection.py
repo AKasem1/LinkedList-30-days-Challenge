@@ -1,4 +1,4 @@
-# Definition for singly-linked list.
+# https://neetcode.io/problems/linked-list-cycle-detection?list=neetcode250
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
